@@ -1,6 +1,6 @@
 # Hi-There
 amberetana/README.md
-Hi there 👋 I'm Vasilii aka Yuhenobi
+Hi there 👋 I'm Amber
 🌍 I live in Austin, Texas
 👔 I'm an experienced Product Manager
 🏢 Currently I'm a Digital Technical Product Manager at a FinTech and Founder @Ablebotics
